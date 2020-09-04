@@ -1,11 +1,11 @@
 {
     "id": "8B5862C8",
-    "path": null,
-    "project_path": null,
+    "path": "~/Documents/test/workshopproj/script.R",
+    "project_path": "script.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "645660746",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1599234776139.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -15,11 +15,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": -1152912716655192752,
-    "encoding": "",
+    "lastKnownWriteTime": 1599234940,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1599234782471,
+    "last_content_update": 1599234940841,
     "read_only": false,
     "read_only_alternatives": []
 }
