@@ -3,7 +3,7 @@
     "path": "~/Documents/test/workshopproj/script.R",
     "project_path": "script.R",
     "type": "r_source",
-    "hash": "645660746",
+    "hash": "1280652640",
     "contents": "",
     "dirty": false,
     "created": 1599234776139.0,
@@ -11,15 +11,15 @@
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "0,22",
+        "cursorPosition": "3,19",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1599234940,
+    "lastKnownWriteTime": 1599235793,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1599234940841,
+    "last_content_update": 1599235793126,
     "read_only": false,
     "read_only_alternatives": []
 }
